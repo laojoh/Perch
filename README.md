@@ -12,6 +12,6 @@ I need a headphone stand. No of the ones I saw online looked cool. Like remotely
 
 ## Images
 
-![Desktop Photo](images/Desktop_Version.png)
+![Desktop Photo](Images/Desktop_Version.png)
 
-![Under_Photo](images/Under_Version.png)
+![Under_Photo](Images/Under_Version.png)
