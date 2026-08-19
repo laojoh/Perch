@@ -1,6 +1,8 @@
 # Perch
 A simple headphone stand to put on a desk (but it looks really cool). Under desk and on desk variations!
 
+![Perch Zine](PerchZine.jpg)
+
 ## Use
 Plop on desk (or use 1/4-20 bolts to attach to desk rail), put headphone band in the lego hand looking thing.
 
