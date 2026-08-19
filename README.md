@@ -1,5 +1,5 @@
 # Perch
-A simple headphone stand to put on a desk (but it looks really cool). Under desk and on desk variations!
+A simple headphone stand to put on a desk (but it looks really cool). Under desk and on desk (also a large version for desktop) variations!
 
 ![Perch Zine](PerchZine.jpg)
 
@@ -17,3 +17,6 @@ I need a headphone stand. No of the ones I saw online looked cool. Like remotely
 ![Desktop Photo](Images/Desktop_Version.png)
 
 ![Under_Photo](Images/Under_Version.png)
+
+
+![Large Desktop Photo](Images/DesktopLarge.png)
